@@ -1,0 +1,10 @@
+.signupForm{
+    margin: 50px;
+}
+
+.signupForm input{
+    margin-bottom: 10px;
+    padding: 5px 10px ;
+}:focus{
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.5);
+}
